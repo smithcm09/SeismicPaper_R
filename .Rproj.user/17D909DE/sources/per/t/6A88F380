@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524422455330.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4087827222",
+    "id" : "6A88F380",
+    "lastKnownWriteTime" : 1524489117,
+    "last_content_update" : 1524489117733,
+    "path" : "~/Desktop/SeismicPaper_R/SubSampling.R",
+    "project_path" : "SubSampling.R",
+    "properties" : {
+        "cursorPosition" : "20,0",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524423391631.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FAA3E09E",
+    "lastKnownWriteTime" : 4803815712,
+    "last_content_update" : 1524423391631,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "C3A6D57D",
+        "caption" : "CRFonlyDF",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=CRFonlyDF&cache_key=C3A6D57D",
+        "displayedObservations" : 80,
+        "environment" : "",
+        "object" : "CRFonlyDF",
+        "preview" : 0,
+        "totalObservations" : 80,
+        "variables" : 86
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
